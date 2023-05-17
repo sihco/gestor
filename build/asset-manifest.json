@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f94d7ad6.css",
+    "main.js": "/static/js/main.178e4894.js",
+    "static/js/787.d59f2151.chunk.js": "/static/js/787.d59f2151.chunk.js",
+    "static/media/file-pdf-solid.svg": "/static/media/file-pdf-solid.5e60a02cc9beb752347fa64a526bb199.svg",
+    "static/media/burger-solid.svg": "/static/media/burger-solid.89c3101659f8fc381edc71ddc08669c7.svg",
+    "static/media/file-zipper-regular.svg": "/static/media/file-zipper-regular.1c0aaee68afbfc25c0cb16296a353d31.svg",
+    "static/media/file-text.svg": "/static/media/file-text.61c0f4cd81be83ae0216c241d5cb8fb2.svg",
+    "static/media/js.svg": "/static/media/js.41652ee89fb377eb3c7120c9a65e1307.svg",
+    "static/media/file-powerpoint-regular.svg": "/static/media/file-powerpoint-regular.ae30723e89ea7964437584eb53491750.svg",
+    "static/media/image-solid.svg": "/static/media/image-solid.f48e7da116f7b31511b2ed22ebe60c12.svg",
+    "static/media/file-word-solid.svg": "/static/media/file-word-solid.869ce62588ec0a556ee14f80b6968ca1.svg",
+    "index.html": "/index.html",
+    "static/media/file-excel-solid.svg": "/static/media/file-excel-solid.259b821776e0a0b6876afd971ad3720e.svg",
+    "static/media/file-regular.svg": "/static/media/file-regular.5071c6b9ddb2d3f3ea1f2985f78436eb.svg",
+    "static/media/html5.svg": "/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
+    "main.f94d7ad6.css.map": "/static/css/main.f94d7ad6.css.map",
+    "main.178e4894.js.map": "/static/js/main.178e4894.js.map",
+    "787.d59f2151.chunk.js.map": "/static/js/787.d59f2151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f94d7ad6.css",
+    "static/js/main.178e4894.js"
+  ]
+}
